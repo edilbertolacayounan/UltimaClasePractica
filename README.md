@@ -1,6 +1,7 @@
 # UltimaClasePractica
 Ultima clase practica control de verision, generar grafico
 
+trabajar en parejas, cada uno crea su repo, cada uno asume los dos roles, jefe y empleado...
 Mision, clonar el repo, en una carpeta nueva.
 generar una rama "desarrollo"
 de la rema desarrollo crear otra rama con tu nombre
